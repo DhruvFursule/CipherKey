@@ -1,0 +1,9 @@
+{
+    "name" : "Password Generator",
+    "version" : "1.0.0",
+    "manifest_version" : 3,
+    "description" : "A strong password generator",
+    "action" : {
+        "default_popup" : "index.html"
+    }
+}
